@@ -38,6 +38,12 @@ headingDivider: 1
 
 # ¿Cómo será la educación en Ingeniería en el Metaverso? 
 
+# 
+![bg contain](assets/lecture2021.png)
+
+
+# Algo no me cuadra del todo...
+
 
 # 
 ![bg contain](assets/lecturingCirca.jpg)
