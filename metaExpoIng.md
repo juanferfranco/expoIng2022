@@ -6,6 +6,10 @@ headingDivider: 1
 ---
 <!-- _class: lead -->
 # Metaverso
+##   
+
+![bg 60%](assets/metamess.png)
+
 <!--## Juan Franco-->
 
 <!-- SPEAKER NOTES
