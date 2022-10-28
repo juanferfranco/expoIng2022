@@ -20,8 +20,6 @@ headingDivider: 1
 - Docente
 - Universidad Pontificia Bolivariana
 - Ingeniería en Diseño de Entretenimiento Digital
-- juanf.franco@upb.edu.co
-
 
 # ¿Qué es el `Metaverso`?
 
