@@ -95,7 +95,7 @@ El concepto de metaverse va a combinar la conectividad de la web con la inmersiv
 
 # ¿Cómo será la educación en Ingeniería en el Metaverso?
 
-# Tal vez una como un EXPERIENCIA INTERACTIVA
+# Tal vez como una EXPERIENCIA INTERACTIVA
 
 
 # “The metaverse education is a highly immersive learning space that ensures better engagement and deeper learning and retention”
