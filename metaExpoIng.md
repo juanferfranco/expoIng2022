@@ -129,4 +129,4 @@ El concepto de metaverse va a combinar la conectividad de la web con la inmersiv
 
 # Voy en este punto... y seguiré buscando la respuesta
 
-# Y ustedes ¿Cómo diseñarán la educación en Ingeniería en el Metaverso?
+# Y ustedes ¿Cómo DISEÑARÁN la educación en Ingeniería en el Metaverso?
