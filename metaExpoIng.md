@@ -12,11 +12,6 @@ headingDivider: 1
 
 <!--## Juan Franco-->
 
-<!-- SPEAKER NOTES
-  - Les cuento quién soy
-  - Educación en Ingeniería en el Metaverso
- -->
-
 # Mi nombre es Juan Franco
 
 ![bg left 50%](assets/fotoJuan.jpg)
@@ -36,6 +31,10 @@ headingDivider: 1
 ![bg](assets/webconn.jpg)
 
 ![bg](assets/spatialComp.jpg)
+
+<!-- SPEAKER NOTES
+El concepto de metaverse va a combinar la conectividad de la web con la inmersividad de la computación espacial (spatial computing: los computadores tratando de entender el mundo que los rodea) e incluirá crear ambientes y experiencias virtuales, enlazar esos mundos virtuales con el mundo real y permitir interacciones entre múltiples personas
+ -->
 
 
 # ¿Cómo será la educación en Ingeniería en el Metaverso? 
