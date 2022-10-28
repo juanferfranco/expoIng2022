@@ -66,4 +66,66 @@ headingDivider: 1
 
 # CAMBIA EL MEDIO, PERO NO CAMBIA LA FORMA
 
+# ¿Lo podemos hacer diferente?
 
+#
+![bg contain](assets/AR-med.png)
+
+#
+![bg contain](assets/ocularUPB.png)
+
+#
+![bg contain](assets/RNA.png)
+
+#
+![bg contain](assets/museo.png)
+
+#
+![bg contain](assets/bicentenario.png)
+
+#
+![bg contain](assets/training.png)
+
+#
+![bg contain](assets/spatialComp.png)
+
+#
+![bg contain](assets/electroStatic.png)
+
+# ¿Cómo será la educación en Ingeniería en el Metaverso?
+
+# Tal vez una como un EXPERIENCIA INTERACTIVA
+
+
+# “The metaverse education is a highly immersive learning space that ensures better engagement and deeper learning and retention”
+
+# ... Tal vez... pero creo que lo anterior se debe DISEÑAR
+
+# ¿Cómo diseñar estas EXPERIENCIAS?
+
+#
+![bg contain](assets/LE-process.png)
+
+#
+![bg contain](assets/LE-practice.png)
+
+#
+![bg contain](assets/learningScences.png)
+
+#
+![bg contain](assets/LE-engineeringDesignMethods.png)
+
+#
+![bg contain](assets/LE-humanCenter.png)
+
+#
+![bg contain](assets/LE-analytics.png)
+
+#
+![bg contain](assets/LE-learner.png)
+
+# ¿Cómo será la educación en Ingeniería en el Metaverso?
+
+# Voy en este punto... y seguiré buscando la respuesta
+
+# Y ustedes ¿Cómo diseñarán la educación en Ingeniería en el Metaverso?
