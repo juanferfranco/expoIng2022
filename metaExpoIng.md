@@ -1,6 +1,5 @@
 ---
 marp: true
-theme: espressif_training
 <!-- backgroundColor: invert -->
 headingDivider: 1
 ---
